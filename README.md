@@ -1,1 +1,1 @@
-# readme
+"Minha paixão por tecnologia começou bem cedo, quando ganhei meu primeiro computador. A curiosidade de entender como cada peça funcionava me levou a desmontá-lo, explorar o hardware e buscar aprender cada detalhe. Com o tempo, essa curiosidade se transformou em dedicação: comecei a estudar programação, entender o funcionamento dos sistemas e a criar meus primeiros projetos. Hoje, curso Análise e Desenvolvimento de Sistemas na SPTech, sempre em busca de novos desafios e aprendizados na área de tecnologia."
